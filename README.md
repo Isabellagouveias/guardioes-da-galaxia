@@ -27,10 +27,11 @@ Este projeto foi inspirado e desenvolvido acompanhando a videoaula de [[Leo Varg
 ## 📸 Exemplos
 
 ### Página inicial
-<img width="2544" height="937" alt="image" src="https://github.com/user-attachments/assets/9324582b-f67a-4351-8235-3e993367e714" />
+<img width="2544" height="944" alt="image" src="https://github.com/user-attachments/assets/19ec558d-3179-409d-a0e8-0b0156fbc9e5" />
 
 ### Menu de personagens aberto
-<img width="2544" height="944" alt="image" src="https://github.com/user-attachments/assets/19ec558d-3179-409d-a0e8-0b0156fbc9e5" />
+<img width="2544" height="937" alt="image" src="https://github.com/user-attachments/assets/9324582b-f67a-4351-8235-3e993367e714" />
+
 
 ## 🧠 Aprendizados
 
